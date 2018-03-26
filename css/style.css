@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-top .navbar{
+    background: #ffffff !important;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.navbar-brand span{
+    color: lightcoral;
+}
